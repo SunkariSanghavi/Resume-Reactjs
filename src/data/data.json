@@ -1,0 +1,86 @@
+{
+"profiles":[
+    {
+        "basics":{
+            "name":"Sanghavi Sunkari",
+            "role":"ASC Developer",
+            "mail":"sunkarisanghavi@gmail.com",
+            "phone":"+91 1234567890",
+            "gender":"female",
+            "address":"ABC colony,XYZ"
+        },
+        "summary":[
+            "Fresher",
+            "Have knowledge on technologies like html5,Css3,javascript.",
+            "Have knowledge on libraries like react,jQuery.",
+            "Have knowledge on back-end technologies like python and php.",
+            "Worked with different kinds of backend technologies like django and express.",
+            "Worked with databases like sql and oracle."
+        ],
+        "education":[
+            {
+              "degree":"B.Tech(Computer Science and Engineering)",
+              "institute":"Andhra University",
+              "CGPA/Percentage":"8.72 CGPA"
+            },
+            {
+              "degree":"Intermediate",
+              "institute":"Sri Chaitanya Junior College",
+              "CGPA/Percentage":"97.5%"
+            },
+            {
+              "degree":"SSC",
+              "institute":"Pollocks School",
+              "CGPA/Percentage":"9.7 CGPA"
+            }
+        ],
+        "hobbies":[
+          "Sketching",
+          "Faux Calligraphy",
+          "Listening Music",
+          "Reading Books"
+        ]
+    },
+    {
+        "basics":{
+            "name":"Sunkari Sanghavi",
+            "role":"FSC Developer",
+            "mail":"sanghavisunkari@gmail.com",
+            "phone":"+91 9876543210",
+            "gender":"female1",
+            "address":"XYZ colony,ABC"
+        },
+        "summary":[
+            "Fresher",
+            "Have knowledge on technologies like html5,Css3,javascript.",
+            "Have knowledge on libraries like react,jQuery.",
+            "Have knowledge on back-end technologies like python and node.",
+            "Worked with different kinds of backend technologies like django and express.",
+            "Worked with databases like sql and oracle and mongo."
+        ],
+        "education":[
+            {
+              "degree":"B.Tech(Computer Science and Engineering)",
+              "institute":"Andhra University",
+              "CGPA/Percentage":"8.72 CGPA"
+            },
+            {
+              "degree":"Intermediate",
+              "institute":"Sri Chaitanya Junior College",
+              "CGPA/Percentage":"97.5%"
+            },
+            {
+              "degree":"SSC",
+              "institute":"Pollocks School",
+              "CGPA/Percentage":"9.7 CGPA"
+            }
+        ],
+        "hobbies":[
+          "Gardening",
+          "Collecting Stamps",
+          "Art",
+          "Reading Books"
+        ]
+    }
+  ]   
+}
